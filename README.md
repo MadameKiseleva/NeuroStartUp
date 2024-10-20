@@ -22,4 +22,5 @@ _NeuroStartUp_ — динамически развивающийся старт�
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
-}```
+}
+```
